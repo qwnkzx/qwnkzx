@@ -1,16 +1,27 @@
-## Hi there 👋
+# Привет! Я Димас 👋 
 
-<!--
-**qwnkzx/qwnkzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Юный DevOps инженер 🚀
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://vercel.app" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Технологии и инструменты
+<p align="left">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
+
+## 📊 Моя GitHub статистика
+<p align="center">
+  <img height="180" src="https://vercel.app" />
+  <img height="180" src="https://vercel.app" />
+</p>
+
+## ⚡ Моя активность в коммитах
+<p align="center">
+  <img src="https://herokuapp.com" />
+</p>
