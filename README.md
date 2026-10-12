@@ -11,18 +11,20 @@ Linux · Networking · Docker · Nginx · Git · CI/CD
 
 
 
-</div>
-
 👨‍💻 Обо мне
 Я строю фундамент для старта в Junior DevOps / DevOps Internship. Предпочитаю не просто запоминать команды, а разбираться в механизмах: что делает система, почему возникает ошибка и как подтвердить, что исправление действительно сработало.
 Мой подход к обучению:
 Теория → лабораторная → наблюдение → troubleshooting → выводы
 Сейчас основной фокус — Linux, компьютерные сети и практическая диагностика проблем.
-🧰 Технологии и инструменты
+🧰 Навыки и инструменты
+- Linux: процессы, права доступа, systemd, логи, память и диски.
+- Networking: изучаю IP, подсети, шлюзы, маршрутизацию, DNS, DHCP, ICMP и NAT.
+- Docker: контейнеры и пользовательские сети.
+- Nginx: изучаю reverse proxy и работу с upstream.
+- Git: ветки, merge/rebase, fetch/pull, reset/revert, cherry-pick.
+- CI/CD: планирую изучить GitHub Actions.
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,bash,docker,nginx,git,github,githubactions&perline=7" alt="Linux, Bash, Docker, Nginx, Git, GitHub and GitHub Actions icons" />
-
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,nginx,git,github,githubactions&perline=7" alt="Linux, Bash, Docker, Nginx, Git, GitHub and GitHub Actions icons" />
 </div>
 
 Linux и системное администрирование
