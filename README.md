@@ -27,16 +27,6 @@ Linux · Networking · Docker · Nginx · Git · CI/CD
   <img src="https://skillicons.dev/icons?i=linux,bash,docker,nginx,git,github,githubactions&perline=7" alt="Linux, Bash, Docker, Nginx, Git, GitHub and GitHub Actions icons" />
 </div>
 
-Linux и системное администрирование
-- Процессы, Права, systemd, Ресурсы, Изоляция, Хранилище, Диагностика
-Networking — изучаю и практикую
-- IPv4, CIDR, Шлюз и таблица маршрутизации, MAC, ARP и таблица соседей, DHCP, ICMP, DNS, NAT/PAT, TCP/UDP
-Containers и web
-- Docker
-- Nginx: 
-- Git 
-- CI/CD
-
 📚 Принцип, которым руководствуюсь
 <div align="center">
 
