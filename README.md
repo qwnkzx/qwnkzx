@@ -18,8 +18,8 @@ Linux · Networking · Docker · Nginx · Git · CI/CD
 Сейчас основной фокус — Linux, компьютерные сети и практическая диагностика проблем.
 🧰 Навыки и инструменты
 - Linux: процессы, права доступа, systemd, логи, память и диски.
-- Networking: изучаю IP, подсети, шлюзы, маршрутизацию, DNS, DHCP, ICMP и NAT.
-- Docker: контейнеры и пользовательские сети.
+- Networking: изучил IP, подсети, шлюзы, маршрутизацию, DNS, DHCP, ICMP и NAT (практикуюсь в Cisco packet tracer).
+- Docker: уверенно Docker Compose, учусь правильно писать multi-stage-build.
 - Nginx: изучил reverse proxy и работу с upstream.
 - Git: ветки, merge/rebase, fetch/pull, reset/revert, cherry-pick.
 - CI/CD: Умею работать с GitLab CI (self-hosted) после проекта планирую научиться работать с Jenkins.
