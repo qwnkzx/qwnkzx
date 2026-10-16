@@ -20,7 +20,7 @@ Linux · Networking · Docker · Nginx · Git · CI/CD
 - Linux: процессы, права доступа, systemd, логи, память и диски.
 - Networking: изучил IP, подсети, шлюзы, маршрутизацию, DNS, DHCP, ICMP и NAT (практикуюсь в Cisco packet tracer).
 - Docker: уверенно Docker Compose, учусь правильно писать multi-stage-build.
-- Nginx: изучил reverse proxy и работу с upstream.
+- Nginx: изучил reverse proxy и работу с upstream. В текущем проекте настроил ssl с самописными сертами
 - Git: ветки, merge/rebase, fetch/pull, reset/revert, cherry-pick.
 - CI/CD: Умею работать с GitLab CI (self-hosted) после проекта планирую научиться работать с Jenkins.
 <div align="center">
