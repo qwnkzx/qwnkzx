@@ -20,9 +20,9 @@ Linux · Networking · Docker · Nginx · Git · CI/CD
 - Linux: процессы, права доступа, systemd, логи, память и диски.
 - Networking: изучаю IP, подсети, шлюзы, маршрутизацию, DNS, DHCP, ICMP и NAT.
 - Docker: контейнеры и пользовательские сети.
-- Nginx: изучаю reverse proxy и работу с upstream.
+- Nginx: изучил reverse proxy и работу с upstream.
 - Git: ветки, merge/rebase, fetch/pull, reset/revert, cherry-pick.
-- CI/CD: планирую изучить GitHub Actions.
+- CI/CD: Умею работать с GitLab CI (self-hosted) после проекта планирую научиться работать с Jenkins.
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,docker,nginx,git,github,githubactions&perline=7" alt="Linux, Bash, Docker, Nginx, Git, GitHub and GitHub Actions icons" />
 </div>
