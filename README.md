@@ -28,7 +28,9 @@
 ---
 
 ### 🛠️ Projects & Practice
+- ### 🛠️ Projects
 
+- **[App with Reverse Proxy and Database](https://github.com/qwnkzx/app-with-reverse-proxy-and-database)** — контейнеризированное приложение с PostgreSQL, двумя уровнями Nginx, автоматизацией через Ansible и CI/CD в GitLab. Настроены healthchecks, Docker Secrets, multi-stage build и сохранение данных БД.
 - **[Ansible 30-Days Challenge](https://github.com/qwnkzx/ansible-30-days-challenge-)** — практические задания по автоматизации конфигурации серверов с Ansible.
 - **Docker / FastAPI / PostgreSQL / Nginx** — контейнеризация приложения, настройка взаимодействия сервисов и reverse proxy.
 
