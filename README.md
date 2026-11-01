@@ -21,6 +21,7 @@
   <img src="https://skillicons.dev" alt="My Skills" />
 </div>
 
+
 ---
 
 ### 👨‍💻 Мой подход к обучению
