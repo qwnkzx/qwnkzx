@@ -1,30 +1,40 @@
 # 🐧 DevOps Journey
 
-> **Learn by building, breaking and fixing.** 
-> Сначала понять механизм. Затем проверить руками. Потом сломать в лаборатории и восстановить.
+> **Learn by building, breaking and fixing.**  
+> Сначала понять механизм. Затем проверить на практике. Потом сломать в лаборатории и восстановить.
 
-Привет! Я изучаю DevOps. Фокусируюсь на понимании внутренних механизмов работы систем, диагностике и поиске первопричин ошибок (troubleshooting), а не простом заучивании команд. 
+Привет! Я изучаю DevOps и ищу возможность начать карьеру в качестве **DevOps Trainee / Junior DevOps Engineer**. Мне интересны Linux, автоматизация, контейнеризация, CI/CD и инфраструктура. Люблю разбираться в причинах ошибок, проверять гипотезы и находить решения на практике.
 
 ---
 
-### 🧰 Навыки и инструменты
-
-* **Linux & Bash:** Процессы, права доступа, systemd, логи, память и диски.
-* **Networking:** IP, подсети, маршрутизация, DNS, DHCP, NAT (практика в Cisco Packet Tracer).
-* **Docker:** Уверенное владение Docker Compose, оптимизация образов через multi-stage builds.
-* **Ansible:** Автоматизация развертывания, написание переиспользуемых ролей и шаблонизация Jinja2.
-* **Nginx:** Настройка Reverse Proxy, upstream-балансировки, работа с SSL/TLS.
-* **CI/CD:** Построение пайплайнов в GitLab CI (в планах — Jenkins / GitHub Actions).
-* **Git:** Работа с ветками, стратегии merge/rebase, reset/revert, cherry-pick.
+### 🧰 Skills & Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev" alt="My Skills" />
+
+<img src="https://skillicons.dev/icons?i=linux,bash,git,docker,gitlab,nginx,ansible,cpp" alt="Linux, Bash, Git, Docker, GitLab, Nginx, Ansible, C++" />
+
 </div>
 
+- **Linux & Bash:** процессы, права доступа, systemd, логи, память и диски.
+- **Git:** ветки, merge/rebase, reset/revert, cherry-pick.
+- **Docker:** Docker Compose, контейнеризация приложений, multi-stage builds.
+- **GitLab CI/CD:** изучаю построение и автоматизацию CI/CD-пайплайнов.
+- **Nginx:** Reverse Proxy, upstream, балансировка нагрузки, SSL/TLS.
+- **Ansible:** автоматизация настройки серверов, роли, шаблоны Jinja2.
+- **Networking:** IP, подсети, маршрутизация, DNS, DHCP, NAT; практика в Cisco Packet Tracer.
+- **C++:** изучение языка и основ программирования.
+- **Golang:** тоже изучения языка и основ программирования
 
 ---
 
-### 👨‍💻 Мой подход к обучению
+### 🛠️ Projects & Practice
 
-Я строю прочный фундамент для старта в качестве **Junior DevOps / DevOps Trainee**. Мой цикл работы с любой технологией выглядит так:
-`Теория` ➔ `Лабораторная работа` ➔ `Метрики и наблюдение` ➔ `Troubleshooting` ➔ `Выводы`
+- **[Ansible 30-Days Challenge](https://github.com/qwnkzx/ansible-30-days-challenge-)** — практические задания по автоматизации конфигурации серверов с Ansible.
+- **Docker / FastAPI / PostgreSQL / Nginx** — контейнеризация приложения, настройка взаимодействия сервисов и reverse proxy.
+
+---
+
+### 🎯 Career Goal
+
+Ищу первую возможность в DevOps, где смогу применять знания на практике, решать реальные инфраструктурные задачи и развиваться в команде.
+
