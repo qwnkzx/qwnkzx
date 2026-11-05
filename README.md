@@ -11,7 +11,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,bash,git,docker,gitlab,nginx,ansible,cpp,go" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=linux,bash,git,docker,gitlab,nginx,ansible,cpp" alt="Skills" />
 
 </div>
 
