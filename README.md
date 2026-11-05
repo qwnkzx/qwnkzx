@@ -1,41 +1,31 @@
-# 🐧 DevOps Journey
+# Dmitry | Junior DevOps Engineer
 
-> **Learn by building, breaking and fixing.**  
-> Сначала понять механизм. Затем проверить на практике. Потом сломать в лаборатории и восстановить.
+Linux • Docker • Ansible • GitLab CI • Nginx
 
-Привет! Я изучаю DevOps и ищу возможность начать карьеру в качестве **DevOps Trainee / Junior DevOps Engineer**. Мне интересны Linux, автоматизация, контейнеризация, CI/CD и инфраструктура. Люблю разбираться в причинах ошибок, проверять гипотезы и находить решения на практике.
+Ищу первую удалённую позицию **Junior / Trainee DevOps Engineer**.
 
----
+### Стек
 
-### 🧰 Skills & Technologies
+- **Linux** — процессы, systemd, сеть, права, логи, память
+- **Docker** — multi-stage builds, Compose, secrets, healthchecks, non-root
+- **Ansible** — roles, handlers, Jinja2, Vault
+- **CI/CD** — GitLab CI (DAG через needs, cache, artifacts, registry)
+- **Nginx** — reverse proxy, SSL/TLS, upstream
+
+### Главный проект
+
+**[app-with-reverse-proxy-and-database](https://github.com/qwnkzx/app-with-reverse-proxy-and-database)**  
+Полный стек: PostgreSQL + двухуровневый Nginx + Docker Compose + Ansible + GitLab CI.  
+Реализованы multi-stage builds, Docker Secrets, healthchecks, named volumes и деплой через Ansible.
+
+### Практика
+
+- [Ansible 30 Days Challenge](https://github.com/qwnkzx/ansible-30-days-challenge-) — от Ad-Hoc до ролей, Vault, Docker, Nginx + SSL и бэкапов
+- [Docker multi-stage practice](https://github.com/qwnkzx/DevOps-practice)
+
+Готов к тестовому заданию и техническому собеседованию.
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=linux,bash,git,docker,gitlab,nginx,ansible,cpp" alt="Skills" />
-
-</div>
-
-- **Linux & Bash:** процессы, права доступа, systemd, логи, память и диски.
-- **Git:** ветки, merge/rebase, reset/revert, cherry-pick.
-- **Docker:** Docker Compose, контейнеризация приложений, multi-stage builds.
-- **GitLab CI/CD:** изучаю построение и автоматизацию CI/CD-пайплайнов.
-- **Nginx:** Reverse Proxy, upstream, балансировка нагрузки, SSL/TLS.
-- **Ansible:** автоматизация настройки серверов, роли, шаблоны Jinja2.
-- **Networking:** IP, подсети, маршрутизация, DNS, DHCP, NAT; практика в Cisco Packet Tracer.
-- **C++:** изучение языка и основ программирования.
-- **Golang:** тоже изучения языка и основ программирования
-
----
-
-### 🛠️ Projects & Practice
-
-- **[App with Reverse Proxy and Database](https://github.com/qwnkzx/app-with-reverse-proxy-and-database)** — контейнеризированное приложение с PostgreSQL, двумя уровнями Nginx, автоматизацией через Ansible и CI/CD в GitLab. Настроены healthchecks, Docker Secrets, multi-stage build и сохранение данных БД.
-- **[Ansible 30-Days Challenge](https://github.com/qwnkzx/ansible-30-days-challenge-)** — практические задания по автоматизации конфигурации серверов с Ansible.
-- **Docker / FastAPI / PostgreSQL / Nginx** — контейнеризация приложения, настройка взаимодействия сервисов и reverse proxy.
-
----
-
-### 🎯 Career Goal
-
-Ищу первую возможность в DevOps, где смогу применять знания на практике, решать реальные инфраструктурные задачи и развиваться в команде.
 
