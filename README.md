@@ -15,9 +15,9 @@ Linux • Docker • Ansible • GitLab CI • Nginx • Kubernetes • Helm
 
 ### Главный проект
 
-**[app-with-reverse-proxy-and-database](https://github.com/qwnkzx/app-with-reverse-proxy-and-database)**  
-Полный стек: PostgreSQL + двухуровневый Nginx + Docker Compose + Ansible + GitLab CI.  
-Реализованы multi-stage builds, Docker Secrets, healthchecks, named volumes и деплой через Ansible.
+**[budget-k8s](https://github.com/qwnkzx/budget-k8s)**  
+Стек: Kubernetes (StatefulSet, Ingress, Service, Deployment, Secrets), Helm - шаблонизатор манифестов Kubernetes
+Разобрался как работает Helm, через время хочу добавить автоматическое обновление при помощи ArgoCD
 
 ### Практика
 
