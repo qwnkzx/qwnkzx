@@ -26,8 +26,10 @@ Linux • Docker • Ansible • GitLab CI • Nginx • Kubernetes • Helm
 
 Готов к тестовому заданию и техническому собеседованию.
 
+
 <div align="center">
 
-<img src="https://vercel.app" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=linux,git,docker,ansible,kubernetes,helm,gitlab,bash&perline=8" />
 
 </div>
+
