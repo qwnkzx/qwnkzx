@@ -1,6 +1,6 @@
 # Dmitry | Junior DevOps Engineer
 
-Linux • Docker • Ansible • GitLab CI • Nginx
+Linux • Docker • Ansible • GitLab CI • Nginx • Kubernetes • Helm
 
 Ищу первую удалённую позицию **Junior / Trainee DevOps Engineer**.
 
@@ -11,6 +11,7 @@ Linux • Docker • Ansible • GitLab CI • Nginx
 - **Ansible** — roles, handlers, Jinja2, Vault
 - **CI/CD** — GitLab CI (DAG через needs, cache, artifacts, registry)
 - **Nginx** — reverse proxy, SSL/TLS, upstream
+- **Kubernetes & Helm** — оркестрация контейнеров, манифесты, чарты
 
 ### Главный проект
 
@@ -27,5 +28,6 @@ Linux • Docker • Ansible • GitLab CI • Nginx
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,bash,git,docker,gitlab,nginx,ansible,cpp" alt="Skills" />
+<img src="https://vercel.app" alt="Skills" />
 
+</div>
