@@ -29,7 +29,7 @@ Linux • Docker • Ansible • GitLab CI • Nginx • Kubernetes • Helm
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=linux,git,docker,ansible,kubernetes,helm,gitlab,bash&perline=8" />
+  <img src="https://skillicons.dev/icons?i=linux,git,docker,ansible,kubernetes,nginx,gitlab,bash&perline=8" />
 
 </div>
 
